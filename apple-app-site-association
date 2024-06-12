@@ -1,11 +1,18 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appIDs": ["6KF8V6Z8HJ.ai.powerup.stori", "6KF8V6Z8HJ.com.stori.DeLoreanDemo"],
-                "paths": ["/*"]
-            }
-        ]
-    }
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "6KF8V6Z8HJ.ai.powerup.stori", "6KF8V6Z8HJ.com.stori.DeLoreanDemo" ],
+             "components": [
+               {
+                  "/": "/*",
+                  "comment": "Matches any URL with any path."
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "6KF8V6Z8HJ.ai.powerup.stori" ]
+   }
 }
