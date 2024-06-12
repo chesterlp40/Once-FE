@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "6KF8V6Z8HJ.ai.powerup.stori",
+                "appIDs": ["6KF8V6Z8HJ.ai.powerup.stori", "6KF8V6Z8HJ.com.stori.DeLoreanDemo"],
                 "paths": ["/*"]
             }
         ]
