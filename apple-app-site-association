@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "6KF8V6Z8HJ.ai.powerup.stori", "6KF8V6Z8HJ.com.stori.DeLoreanDemo" ],
+             "appIDs": [ "7J27C6KE2Q.OnceDev.XBike" ],
              "components": [
                {
                   "/": "*",
@@ -14,6 +14,6 @@
        "defaults": { "caseSensitive": false }
    },
    "activitycontinuation": {
-      "apps": [ "6KF8V6Z8HJ.ai.powerup.stori" ]
+      "apps": [ "7J27C6KE2Q.OnceDev.XBike" ]
    }
 }
