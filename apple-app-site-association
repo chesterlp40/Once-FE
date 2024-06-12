@@ -5,7 +5,7 @@
              "appIDs": [ "6KF8V6Z8HJ.ai.powerup.stori", "6KF8V6Z8HJ.com.stori.DeLoreanDemo" ],
              "components": [
                {
-                  "/": "/*",
+                  "/": "*",
                   "comment": "Matches any URL with any path."
                }
              ]
