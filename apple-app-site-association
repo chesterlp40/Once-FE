@@ -1,9 +1,10 @@
 {
   "applinks": {
+      "apps": [],
       "details": [
            {
              "appIDs": [ "7J27C6KE2Q.OnceDev.PicturesEverywhere" ],
-             "paths": [ "/Once-FE/*" ]
+             "paths": [ "/*" ]
            }
        ],
        "defaults": { "caseSensitive": false }
