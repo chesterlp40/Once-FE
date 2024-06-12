@@ -4,7 +4,7 @@
       "details": [
            {
              "appIDs": [ "7J27C6KE2Q.OnceDev.PicturesEverywhere" ],
-             "paths": [ "/*" ]
+             "paths": [ "*" ]
            }
        ],
        "defaults": { "caseSensitive": false }
