@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "6KF8V6Z8HJ.ai.powerup.stori",
-                "paths": [ "/Once-FE/*" ]
+                "paths": [ "*" ]
             }
         ]
     }
