@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "7J27C6KE2Q.OnceDev.XBike" ],
+             "appIDs": [ "7J27C6KE2Q.OnceDev.PicturesEverywhere" ],
              "components": [
                {
                   "/": "*",
@@ -14,6 +14,6 @@
        "defaults": { "caseSensitive": false }
    },
    "activitycontinuation": {
-      "apps": [ "7J27C6KE2Q.OnceDev.XBike" ]
+      "apps": [ "7J27C6KE2Q.OnceDev.PicturesEverywhere" ]
    }
 }
