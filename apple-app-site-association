@@ -3,12 +3,7 @@
       "details": [
            {
              "appIDs": [ "7J27C6KE2Q.OnceDev.PicturesEverywhere" ],
-             "components": [
-               {
-                  "/": "*",
-                  "comment": "Matches any URL with any path."
-               }
-             ]
+             "paths": [ "/Once-FE/*" ]
            }
        ],
        "defaults": { "caseSensitive": false }
