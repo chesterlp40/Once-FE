@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6KF8V6Z8HJ.ai.powerup.stori",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "6KF8V6Z8HJ.com.stori.DeLoreanDemo",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "7J27C6KE2Q.OnceDev.PicturesEverywhere",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
