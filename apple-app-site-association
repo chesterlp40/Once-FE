@@ -10,9 +10,10 @@
                }
              ]
            }
-       ]
+       ],
+       "defaults": { "caseSensitive": false }
    },
-   "webcredentials": {
+   "activitycontinuation": {
       "apps": [ "6KF8V6Z8HJ.ai.powerup.stori" ]
    }
 }
